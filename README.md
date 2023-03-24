@@ -1,7 +1,7 @@
 [![Maven Package upon a push](https://github.com/mosip/audit-manager/actions/workflows/push_trigger.yml/badge.svg?branch=release-1.2.0.1)](https://github.com/mosip/audit-manager/actions/workflows/push_trigger.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mosip_audit-manager&metric=alert_status)](https://sonarcloud.io/dashboard?branch=release-1.2.0.1&id=mosip_audit-manager)
 
-# Audit Manager
+## Audit Manager
 
 ## Overview
 This repository contains modules used for audit related funtionalities. 
